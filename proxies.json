@@ -1,0 +1,471 @@
+{
+  "version": 1,
+  "generated_at": "2026-11-09T18:55:17.82242275Z",
+  "probe_url": "http://icanhazip.com/",
+  "proxies": [
+    {
+      "type": "http",
+      "host": "185.214.39.2",
+      "port": 9944,
+      "exit_ip": "185.214.39.2",
+      "exit_country": "IR",
+      "ping_ms": 269,
+      "speed_kbps": 1502,
+      "iran_ok": true,
+      "uptime_24h": 0.395,
+      "first_seen": "2026-10-10T00:05:31.23818678Z",
+      "last_ok": "2026-11-09T18:55:17.82242275Z",
+      "sources": [
+        "ercin-http",
+        "ercin-socks5",
+        "proxyscrape-ir"
+      ],
+      "score": 0.684
+    },
+    {
+      "type": "http",
+      "host": "188.136.172.1",
+      "port": 8080,
+      "exit_ip": "188.136.172.1",
+      "exit_country": "IR",
+      "ping_ms": 205,
+      "speed_kbps": 862,
+      "iran_ok": false,
+      "uptime_24h": 0.625,
+      "first_seen": "2026-10-17T14:16:20.05955072Z",
+      "last_ok": "2026-11-09T18:55:17.82242275Z",
+      "sources": [
+        "ercin-http",
+        "iplocate",
+        "monosans-http"
+      ],
+      "score": 0.683
+    },
+    {
+      "type": "http",
+      "host": "185.142.156.203",
+      "port": 80,
+      "exit_ip": "185.142.156.203",
+      "exit_country": "IR",
+      "ping_ms": 11428,
+      "speed_kbps": 649,
+      "iran_ok": false,
+      "uptime_24h": 0.791,
+      "first_seen": "2026-10-14T10:19:20.122531914Z",
+      "last_ok": "2026-11-09T18:55:17.82242275Z",
+      "sources": [
+        "ercin-http",
+        "monosans-http",
+        "proxifly-all",
+        "proxifly-ir"
+      ],
+      "score": 0.508
+    },
+    {
+      "type": "http",
+      "host": "81.12.89.73",
+      "port": 8080,
+      "exit_ip": "81.12.89.73",
+      "exit_country": "IR",
+      "ping_ms": 289,
+      "speed_kbps": 0,
+      "iran_ok": true,
+      "uptime_24h": 0.333,
+      "first_seen": "2026-11-08T09:09:26.236476385Z",
+      "last_ok": "2026-11-09T18:55:17.82242275Z",
+      "sources": [
+        "proxifly-all",
+        "proxifly-ir",
+        "speedx-http"
+      ],
+      "score": 0.481,
+      "probe_ok": true
+    },
+    {
+      "type": "http",
+      "host": "46.209.217.108",
+      "port": 8088,
+      "exit_ip": "46.209.217.106",
+      "exit_country": "IR",
+      "ping_ms": 211,
+      "speed_kbps": 0,
+      "iran_ok": false,
+      "uptime_24h": 0.52,
+      "first_seen": "2026-10-10T00:05:31.23818678Z",
+      "last_ok": "2026-11-09T18:55:17.82242275Z",
+      "sources": [
+        "ercin-http"
+      ],
+      "score": 0.476
+    },
+    {
+      "type": "http",
+      "host": "5.202.120.92",
+      "port": 8080,
+      "exit_ip": "5.202.120.92",
+      "exit_country": "IR",
+      "ping_ms": 1223,
+      "speed_kbps": 63,
+      "iran_ok": false,
+      "uptime_24h": 0.562,
+      "first_seen": "2026-10-10T00:05:31.23818678Z",
+      "last_ok": "2026-11-09T18:55:17.82242275Z",
+      "sources": [
+        "ercin-http",
+        "iplocate",
+        "monosans-http",
+        "proxifly-all",
+        "proxifly-ir"
+      ],
+      "score": 0.456
+    },
+    {
+      "type": "http",
+      "host": "46.209.30.11",
+      "port": 8080,
+      "exit_ip": "46.209.30.11",
+      "exit_country": "IR",
+      "ping_ms": 2257,
+      "speed_kbps": 245,
+      "iran_ok": true,
+      "uptime_24h": 0.5,
+      "first_seen": "2026-10-10T00:05:31.23818678Z",
+      "last_ok": "2026-11-09T18:55:17.82242275Z",
+      "sources": [
+        "ercin-http",
+        "iplocate",
+        "monosans-http",
+        "proxifly-all",
+        "proxifly-ir",
+        "speedx-socks5"
+      ],
+      "score": 0.454
+    },
+    {
+      "type": "http",
+      "host": "185.112.35.184",
+      "port": 3128,
+      "exit_ip": "185.112.35.184",
+      "exit_country": "IR",
+      "ping_ms": 2246,
+      "speed_kbps": 771,
+      "iran_ok": true,
+      "uptime_24h": 0.416,
+      "first_seen": "2026-10-10T06:01:48.20967679Z",
+      "last_ok": "2026-11-09T18:55:17.82242275Z",
+      "sources": [
+        "ercin-http",
+        "monosans-http",
+        "proxifly-all",
+        "proxifly-ir",
+        "speedx-http",
+        "speedx-socks5",
+        "sunny9577"
+      ],
+      "score": 0.444
+    },
+    {
+      "type": "http",
+      "host": "31.47.38.2",
+      "port": 80,
+      "exit_ip": "31.47.38.2",
+      "exit_country": "IR",
+      "ping_ms": 5366,
+      "speed_kbps": 1051,
+      "iran_ok": true,
+      "uptime_24h": 0.333,
+      "first_seen": "2026-10-10T00:05:31.23818678Z",
+      "last_ok": "2026-11-09T18:55:17.82242275Z",
+      "sources": [
+        "ercin-http",
+        "ercin-socks5",
+        "proxifly-all",
+        "proxifly-ir"
+      ],
+      "score": 0.413
+    },
+    {
+      "type": "http",
+      "host": "185.145.185.218",
+      "port": 8080,
+      "exit_ip": "185.145.185.216",
+      "exit_country": "IR",
+      "ping_ms": 1280,
+      "speed_kbps": 0,
+      "iran_ok": false,
+      "uptime_24h": 0.604,
+      "first_seen": "2026-10-10T00:05:31.23818678Z",
+      "last_ok": "2026-11-09T18:55:17.82242275Z",
+      "sources": [
+        "ercin-http"
+      ],
+      "score": 0.369
+    },
+    {
+      "type": "http",
+      "host": "89.46.219.133",
+      "port": 80,
+      "exit_ip": "89.46.219.130",
+      "exit_country": "IR",
+      "ping_ms": 1223,
+      "speed_kbps": 0,
+      "iran_ok": false,
+      "uptime_24h": 0.541,
+      "first_seen": "2026-10-10T00:05:31.23818678Z",
+      "last_ok": "2026-11-09T18:55:17.82242275Z",
+      "sources": [
+        "ercin-http",
+        "proxifly-all",
+        "proxifly-ir"
+      ],
+      "score": 0.349
+    },
+    {
+      "type": "http",
+      "host": "84.241.30.214",
+      "port": 8080,
+      "exit_ip": "84.241.30.214",
+      "exit_country": "IR",
+      "ping_ms": 353,
+      "speed_kbps": 0,
+      "iran_ok": true,
+      "uptime_24h": 0.041,
+      "first_seen": "2026-10-10T00:05:31.23818678Z",
+      "last_ok": "2026-11-09T18:55:17.82242275Z",
+      "sources": [
+        "ercin-http",
+        "ercin-socks5",
+        "monosans-http"
+      ],
+      "score": 0.341,
+      "probe_ok": true
+    },
+    {
+      "type": "http",
+      "host": "37.191.76.218",
+      "port": 7060,
+      "exit_ip": "37.191.76.218",
+      "exit_country": "IR",
+      "ping_ms": 3285,
+      "speed_kbps": 0,
+      "iran_ok": false,
+      "uptime_24h": 0.708,
+      "first_seen": "2026-10-11T19:36:13.116424959Z",
+      "last_ok": "2026-11-09T18:55:17.82242275Z",
+      "sources": [
+        "ercin-http",
+        "iplocate",
+        "monosans-http",
+        "proxifly-all",
+        "proxifly-ir",
+        "zloi-http"
+      ],
+      "score": 0.319
+    },
+    {
+      "type": "http",
+      "host": "217.219.83.186",
+      "port": 2222,
+      "exit_ip": "217.219.83.186",
+      "exit_country": "IR",
+      "ping_ms": 1295,
+      "speed_kbps": 0,
+      "iran_ok": true,
+      "uptime_24h": 0.27,
+      "first_seen": "2026-10-10T00:05:31.23818678Z",
+      "last_ok": "2026-11-09T18:55:17.82242275Z",
+      "sources": [
+        "ercin-http",
+        "ercin-socks5",
+        "geonode-ir"
+      ],
+      "score": 0.317
+    },
+    {
+      "type": "http",
+      "host": "178.252.171.226",
+      "port": 8080,
+      "exit_ip": "178.252.171.226",
+      "exit_country": "IR",
+      "ping_ms": 1247,
+      "speed_kbps": 0,
+      "iran_ok": true,
+      "uptime_24h": 0.208,
+      "first_seen": "2026-10-10T00:05:31.23818678Z",
+      "last_ok": "2026-11-09T18:55:17.82242275Z",
+      "sources": [
+        "ercin-http",
+        "ercin-socks5",
+        "proxifly-all",
+        "proxifly-ir"
+      ],
+      "score": 0.296
+    },
+    {
+      "type": "http",
+      "host": "195.181.40.34",
+      "port": 8080,
+      "exit_ip": "2.179.186.75",
+      "exit_country": "IR",
+      "ping_ms": 1271,
+      "speed_kbps": 0,
+      "iran_ok": true,
+      "uptime_24h": 0.187,
+      "first_seen": "2026-10-10T00:05:31.23818678Z",
+      "last_ok": "2026-11-09T18:55:17.82242275Z",
+      "sources": [
+        "ercin-http",
+        "ercin-socks5",
+        "geonode-ir",
+        "proxifly-all",
+        "proxifly-ir",
+        "proxyscrape-ir"
+      ],
+      "score": 0.283
+    },
+    {
+      "type": "http",
+      "host": "194.150.68.101",
+      "port": 6010,
+      "exit_ip": "194.150.68.101",
+      "exit_country": "IR",
+      "ping_ms": 4335,
+      "speed_kbps": 0,
+      "iran_ok": false,
+      "uptime_24h": 0.625,
+      "first_seen": "2026-10-11T19:36:13.116424959Z",
+      "last_ok": "2026-11-09T18:55:17.82242275Z",
+      "sources": [
+        "iplocate",
+        "monosans-http",
+        "proxifly-all",
+        "proxifly-ir",
+        "zloi-http"
+      ],
+      "score": 0.281
+    },
+    {
+      "type": "http",
+      "host": "93.118.120.60",
+      "port": 8080,
+      "exit_ip": "93.118.120.60",
+      "exit_country": "IR",
+      "ping_ms": 4319,
+      "speed_kbps": 474,
+      "iran_ok": false,
+      "uptime_24h": 0.27,
+      "first_seen": "2026-10-10T00:05:31.23818678Z",
+      "last_ok": "2026-11-09T18:55:17.82242275Z",
+      "sources": [
+        "ercin-http",
+        "geonode-ir",
+        "proxifly-all",
+        "proxifly-ir",
+        "speedx-socks5"
+      ],
+      "score": 0.267
+    },
+    {
+      "type": "http",
+      "host": "78.157.46.76",
+      "port": 8090,
+      "exit_ip": "78.157.46.76",
+      "exit_country": "IR",
+      "ping_ms": 3257,
+      "speed_kbps": 0,
+      "iran_ok": false,
+      "uptime_24h": 0.395,
+      "first_seen": "2026-10-10T00:05:31.23818678Z",
+      "last_ok": "2026-11-09T18:55:17.82242275Z",
+      "sources": [
+        "ercin-http",
+        "proxifly-all",
+        "proxifly-ir",
+        "proxyscrape-ir",
+        "speedx-socks5",
+        "sunny9577"
+      ],
+      "score": 0.178
+    },
+    {
+      "type": "http",
+      "host": "2.188.229.150",
+      "port": 7020,
+      "exit_ip": "2.188.229.150",
+      "exit_country": "IR",
+      "ping_ms": 2256,
+      "speed_kbps": 0,
+      "iran_ok": false,
+      "uptime_24h": 0.291,
+      "first_seen": "2026-10-10T00:05:31.23818678Z",
+      "last_ok": "2026-11-09T18:55:17.82242275Z",
+      "sources": [
+        "ercin-http",
+        "ercin-socks5",
+        "monosans-http"
+      ],
+      "score": 0.131,
+      "probe_ok": true
+    },
+    {
+      "type": "socks5",
+      "host": "46.100.94.217",
+      "port": 1080,
+      "exit_ip": "46.100.94.217",
+      "exit_country": "IR",
+      "ping_ms": 1210,
+      "speed_kbps": 0,
+      "iran_ok": false,
+      "uptime_24h": 0.02,
+      "first_seen": "2026-10-10T00:05:31.23818678Z",
+      "last_ok": "2026-11-09T18:55:17.82242275Z",
+      "sources": [
+        "ercin-socks5"
+      ],
+      "score": 0.116
+    },
+    {
+      "type": "http",
+      "host": "185.109.244.69",
+      "port": 8080,
+      "exit_ip": "185.109.244.69",
+      "exit_country": "IR",
+      "ping_ms": 7365,
+      "speed_kbps": 0,
+      "iran_ok": false,
+      "uptime_24h": 0.187,
+      "first_seen": "2026-10-10T00:05:31.23818678Z",
+      "last_ok": "2026-11-09T18:55:17.82242275Z",
+      "sources": [
+        "ercin-http",
+        "ercin-socks5",
+        "speedx-http",
+        "sunny9577"
+      ],
+      "score": 0.084,
+      "probe_ok": true
+    },
+    {
+      "type": "socks4",
+      "host": "87.107.68.231",
+      "port": 1081,
+      "exit_ip": "87.107.68.231",
+      "exit_country": "IR",
+      "ping_ms": 11425,
+      "speed_kbps": 0,
+      "iran_ok": false,
+      "uptime_24h": 0.187,
+      "first_seen": "2026-10-10T00:05:31.23818678Z",
+      "last_ok": "2026-11-09T18:55:17.82242275Z",
+      "sources": [
+        "ercin-socks5",
+        "geonode-ir",
+        "hookzof-socks5",
+        "proxifly-all",
+        "proxifly-ir",
+        "proxyscrape-ir"
+      ],
+      "score": 0.084
+    }
+  ]
+}
